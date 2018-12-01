@@ -1,0 +1,6 @@
+[package]
+name = "rust-day1-aoc"
+version = "0.1.0"
+authors = ["Tom Arto <tom.arto@protonmail.com>"]
+
+[dependencies]
